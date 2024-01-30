@@ -1,2 +1,3 @@
 qiskit
 matplotlib
+qiskit-aer
